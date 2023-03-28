@@ -1,0 +1,6 @@
+[submodule "libs/zig-wasm3"]
+	path = libs/zig-wasm3
+	url = https://github.com/alichay/zig-wasm3
+[submodule "libs/wasm3"]
+	path = libs/wasm3
+	url = https://github.com/wasm3/wasm3
